@@ -19,3 +19,5 @@ node_modules/
 gc_history*
 hs_err*
 *.tgz
+
+.idea
