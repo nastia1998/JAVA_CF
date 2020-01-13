@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="local" uuid="f10635d5-2a41-432d-b924-d7f253e0a115">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\leshchanka\d\JAVA (Cloud)\javaCourse\srv\local.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
